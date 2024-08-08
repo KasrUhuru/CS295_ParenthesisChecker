@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ParenthesisTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ParenthesisTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
